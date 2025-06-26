@@ -1,7 +1,7 @@
 # Claude AI中文站：Claude 4 Sonnet 免费使用教程与镜像网站推荐 【6月最新更新】
 
 > 国内可访问的 Claude AI 中文版的指南，支持 Claude 4 Sonnet，无需翻墙   
-> 更新时间: 2025/06/26
+> 更新时间: 2025/06/27
 
 ## 国内可用的 Claude AI 中文版镜像站推荐
 
