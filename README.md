@@ -1,15 +1,15 @@
 # Claude AI中文站：Claude 4 Sonnet 免费使用教程与镜像网站推荐 【7月最新更新】
 
 > 国内可访问的 Claude AI 中文版的指南，支持 Claude 4 Sonnet，无需翻墙   
-> 更新时间: 2025/07/08
+> 更新时间: 2025/07/09
 
 ## 国内可用的 Claude AI 中文版镜像站推荐
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
-| Claude AI中文站 | [chat.lanjingai.org](https://chat.lanjingai.org) | Claude 3.5 Sonnet, Thinking | 有免费额度 | 支持Claude全系列模型，支持4o画图 |
-| Claude AI助手 | [xsimplechat.com](https://xsimplechat.com) | Claude 3.7 Sonnet, Thinking | 有免费额度 | 支持多模态，文档分析 |
-| AI一下 | [chat.yixiaai.com](https://chat.yixiaai.com) | Claude 3.7 Sonnet | 有免费额度 | 中文界面，无广告 |
+| Claude AI中文站 | [chat.lanjingai.org](https://chat.lanjingai.org) | Claude 4 Sonnet, Thinking | 有免费额度 | 支持Claude全系列模型，支持4o画图 |
+| Claude AI助手 | [xsimplechat.com](https://xsimplechat.com) | Claude 4 Sonnet, Thinking | 有免费额度 | 支持多模态，文档分析 |
+| AI一下 | [chat.yixiaai.com](https://chat.yixiaai.com) | Claude 4 Sonnet | 有免费额度 | 中文界面，无广告 |
 
 ## 如何快速开始使用 Claude AI 中文版？
 
@@ -28,7 +28,7 @@
 2. **注册账号:**
    - 准备邮箱，用于验证
    - 填写基本信息，完成注册
-3. **选择版本:** 登录后选择 Claude 3.7 Sonnet
+3. **选择版本:** 登录后选择 Claude 4 Sonnet
 4. **开始对话:** 输入问题，畅享原版智能对话
 
 ## 数据隐私与安全性说明
