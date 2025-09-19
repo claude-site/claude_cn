@@ -1,13 +1,13 @@
 # Claude AI中文站：Claude 4 Sonnet 免费使用教程与镜像网站推荐 【9月最新更新】
 
 > 国内可访问的 Claude AI 中文版的指南，支持 Claude 4 Sonnet，无需翻墙   
-> 更新时间: 2025/09/09
+> 更新时间: 2025/09/21
 
 ## 国内可用的 Claude AI 中文版镜像站推荐
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
-| Claude AI中文站 | [chat.lanjingai.org](https://chat.lanjingai.org) | Claude 4 Sonnet, Thinking | 有免费额度 | 支持Claude全系列模型，支持4o画图 |
+| Claude AI中文站 | [talk.lanjingai.org](https://talk.lanjingai.org) | Claude 4 Sonnet, Thinking | 有免费额度 | 支持Claude全系列模型，支持4o画图 |
 | Claude AI助手 | [xsimplechat.com](https://xsimplechat.com) | Claude 4 Sonnet, Thinking | 有免费额度 | 支持多模态，文档分析 |
 | AI一下 | [chat.yixiaai.com](https://chat.yixiaai.com) | Claude 4 Sonnet | 有免费额度 | 中文界面，无广告 |
 
@@ -15,7 +15,7 @@
 
 ### 方法一：通过镜像站点快速体验
 
-1. **访问镜像站点:** 选择推荐的镜像站（如 [Claude 中文站](https://chat.lanjingai.org)）
+1. **访问镜像站点:** 选择推荐的镜像站（如 [Claude 中文站](https://talk.lanjingai.org)）
 2. **注册或直接使用:**
    - 注册：填写邮箱或手机号，完成注册
    - 免注册：部分站点允许直接使用
